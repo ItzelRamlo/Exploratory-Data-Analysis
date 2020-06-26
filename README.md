@@ -20,4 +20,4 @@ The following descriptions of the 9 variables in the dataset are taken from the 
 Please to run the code, you should to change the work directory, because it has been writteng mine wd.  Just change that part pasting the output of *getwd()* and that's it! 
 
 ### For load the data
-For load the data, in some codes it is necessary that you transform the **txt file** to a **cvs file**
+For load the data, in some codes it is necessary that you transform the **txt file** to a **csv file**
