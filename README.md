@@ -16,5 +16,8 @@ The following descriptions of the 9 variables in the dataset are taken from the 
 * **Sub_metering_2:** energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.
 * **Sub_metering_3:** energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
 
-##To run the code
+## To run the code
 Please to run the code, you should to change the work directory, because it has been writteng mine wd.  Just change that part pasting the output of *getwd()* and that's it! 
+
+### For load the data
+For load the data, in some codes it is necessary that you transform the **txt file** to a **cvs file**
